@@ -1,3 +1,6 @@
+# baixar as pastas MetodoDaBisseccao e MetodoDeNewton 
+# e colocar no mesmo diretório para funcionar o algoritmo
+
 from MetodoDaBisseccao import Bisseccao
 from MetodoDeNewton import Newton
 
